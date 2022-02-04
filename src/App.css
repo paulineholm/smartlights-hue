@@ -1,0 +1,13 @@
+body {
+	font-family: "CircularStd";
+  box-sizing: border-box;
+  background-color: #0A4DA2;
+  margin: 0;
+}
+
+#root {
+	padding-bottom: 5.5em;
+}
+html{
+  font-size: 19px;
+}
